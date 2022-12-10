@@ -1,0 +1,27 @@
+@font-face {
+font-family: 'iPhone Light';
+font-style: normal;
+font-weight: normal;
+src: url('iPhone-Light.ttf');
+}
+
+@font-face {
+font-family: 'iPhone Regular';
+font-style: normal;
+font-weight: normal;
+src: url('iPhone-Regular.ttf');
+}
+
+@font-face {
+font-family: 'iPhone Medium';
+font-style: normal;
+font-weight: normal;
+src: url('iPhone-Medium.ttf');
+}
+
+@font-face {
+font-family: 'iPhone Bold';
+font-style: normal;
+font-weight: normal;
+src: url('iPhone-Bold.ttf');
+}
